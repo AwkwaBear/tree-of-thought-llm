@@ -1,3 +1,9 @@
+# Instructions for EE693B test case:
+    - Use the Empiricist.ipynb notebook file to run test cases
+
+
+
+
 # Official Repo of Tree of Thoughts (ToT)
 
 <p>
